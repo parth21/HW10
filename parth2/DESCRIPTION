@@ -1,0 +1,14 @@
+Package: hw10parth2
+Title: What the Package Does (One Line, Title Case)
+Version: 1.0.0
+Authors@R: 
+    person(given = "Parth",
+           family = "Patel",
+           role = c("aut", "cre"),
+           email = "parth2@illinois.edu")
+Description: This package makes basic stats functions easy to implement.
+License: GPL (>= 2) 
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
